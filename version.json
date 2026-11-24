@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "0.29.0",
-  "downloadUrl": "https://github.com/DaddyValarian/money-miles-releases/releases/download/v0.29.0/app-release.apk",
-  "notes": "Update notification test release. No changes to tracking, trip records, or the floating widget."
+  "versionCode": 32,
+  "versionName": "0.32.0",
+  "downloadUrl": "https://github.com/DaddyValarian/money-miles-releases/releases/download/v0.32.0/app-release.apk",
+  "notes": "Corrected same-day trip sorting, added manual Refresh, and included backup and update security improvements."
 }
