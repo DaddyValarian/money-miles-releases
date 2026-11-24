@@ -4,7 +4,7 @@ Money Miles helps adult drivers estimate fuel costs, evaluate offers and maintai
 
 ## Download
 
-[Download Money Miles v0.33.0 for Android](https://github.com/DaddyValarian/money-miles-releases/releases/download/v0.33.0/app-release.apk)
+[Download Money Miles v0.34.0 for Android](https://github.com/DaddyValarian/money-miles-releases/releases/download/v0.34.0/app-release.apk)
 
 This is a free pre-release beta. No subscription or automatic paid enrollment is required. Android 8.0 or later is required; compatibility across all supported devices has not yet been verified.
 
