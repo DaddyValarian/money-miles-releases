@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "0.35.0",
-  "downloadUrl": "https://github.com/DaddyValarian/money-miles-releases/releases/download/v0.35.0/app-release.apk",
-  "notes": "Improved backup validation, data protection and refresh on new installations."
+  "versionCode": 36,
+  "versionName": "0.36.0",
+  "downloadUrl": "https://github.com/DaddyValarian/money-miles-releases/releases/download/v0.36.0/app-release.apk",
+  "notes": "Guided calculator setup, green floating calculator button, simplified vehicle profiles and GPS above the in-app calculator."
 }
