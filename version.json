@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "0.33.0",
-  "downloadUrl": "https://github.com/DaddyValarian/money-miles-releases/releases/download/v0.33.0/app-release.apk",
-  "notes": "Added manual Check for Updates and record refresh, corrected chronological trip sorting, and retained daily automatic update checks. Free beta."
+  "versionCode": 34,
+  "versionName": "0.34.0",
+  "downloadUrl": "https://github.com/DaddyValarian/money-miles-releases/releases/download/v0.34.0/app-release.apk",
+  "notes": "Improved App & Membership screen and simplified free beta access."
 }
