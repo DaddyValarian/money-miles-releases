@@ -1,16 +1,40 @@
-# Money Miles — Official Android Releases
+# Money Miles — Official Android Beta
 
-This public repository hosts official, permanently signed Android APK releases and release notes. The application source and signing credentials remain private.
+Money Miles helps adult drivers estimate fuel costs, evaluate offers and maintain driving records. Operated by Fuller Snacks under its Havena brand.
 
-No public APK has been published yet. Do not install unofficial copies.
+## Download
 
-## Publishing updates
+[Download Money Miles v0.33.0 for Android](https://github.com/DaddyValarian/money-miles-releases/releases/download/v0.33.0/app-release.apk)
 
-1. Build the APK using the private permanently signed workflow and verify its certificate.
-2. Publish a GitHub Release here with a signed APK asset named `Money-Miles-vX.Y.Z.apk`.
-3. Verify that the APK downloads publicly and installs over the previous app without uninstalling.
-4. Only then update `version.json` on `main` with `versionCode`, `versionName`, `downloadUrl`, and `notes` pointing to the verified release asset.
+This is a free pre-release beta. No subscription or automatic paid enrollment is required. Android 8.0 or later is required; compatibility across all supported devices has not yet been verified.
 
-Update manifest URL: `https://raw.githubusercontent.com/DaddyValarian/money-miles-releases/main/version.json`
+## Installation and updates
 
-Never publish the private keystore, signing passwords, source code, or debug APKs. Android requires customer approval to install updates.
+1. Download the official APK above.
+2. Open it and follow Android's installation prompts. Android may ask you to allow installation from your browser or file manager.
+3. Disable that installation permission afterward if you no longer need it.
+4. For updates, install over the existing app. Do not uninstall or clear app data.
+5. In v0.33 or later, open App & Membership and tap Check for Updates while safely parked with GPS stopped.
+
+## Features
+
+- Offer calculator with optional payout and round-trip estimates.
+- Floating calculator, vehicle profiles, editable trip records and expenses.
+- Manually started GPS mileage tracking, reports and exports.
+- Local records, manual backup and restore, and manual refresh.
+
+## Important beta information
+
+Records are stored on your device; account sign-in, cloud sync and billing are not connected. Export backups regularly. Restoring a backup replaces records rather than merging them. Never interact with the app while driving. Verify mileage and financial estimates independently before relying on them for taxes or business decisions. This is not an electronic logging device.
+
+Beta software may contain errors. Report issues with your app version, Android version, device model and steps to reproduce. Avoid sending sensitive trip records or personal information.
+
+## Privacy, terms and support
+
+- [Privacy Policy](PRIVACY_POLICY.md)
+- [Beta Terms of Use](TERMS_OF_USE.md)
+- Support: moneymiles.support@gmail.com
+
+[Release history](https://github.com/DaddyValarian/money-miles-releases/releases)
+
+Only install official signed releases. Application source and signing credentials remain private.
