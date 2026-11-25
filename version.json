@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "0.36.0",
-  "downloadUrl": "https://github.com/DaddyValarian/money-miles-releases/releases/download/v0.36.0/app-release.apk",
-  "notes": "Guided calculator setup, green floating calculator button, simplified vehicle profiles and GPS above the in-app calculator."
+  "versionCode": 37,
+  "versionName": "0.37.0",
+  "downloadUrl": "https://github.com/DaddyValarian/money-miles-releases/releases/download/v0.37.0/app-release.apk",
+  "notes": "Verified email registration and owner approval are required. Automatic approval activation, up to 24 hours of validated offline access, and restricted local record viewing and export. Install over your existing app; back up records first."
 }
